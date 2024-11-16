@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(140, 163, 167, 0.699);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: black;
+}
+
+.p1{
+    text-align: left;
+    color: red;
+}
+
+.p2{
+    text-align: right;
+}
+
+img{
+    border-radius: 3px 4px 3px 4px;
+}
